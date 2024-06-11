@@ -2,8 +2,10 @@
 This project aims to discover Unemployment rate in various counties in California.
 
 <h2> Methods </h2>
+
 1. Data Preprocessing: convert to correct data type, drop rows with null values, selecting the appropriate states to observe, describe and manipulate data.
  <br>
+
 2. Data Analysis:
     - Decision Tree
     - Random Forest 
